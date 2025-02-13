@@ -8,7 +8,8 @@ If you have any issues please report the issue in Github thank you.
 Programmed with TAURI,HTML,SCSS,CSS,JS.
 
 # Website roadmap
-
-- [ ] Make the bare-bones HTML and CSS
+- [ ] Make the design
+- [ ] Make the bare-bones design HTML and CSS
+- [ ] Make it function
 - [ ] Make keyboard shortcuts
 - [ ] Add options to add new notes and browse through notes
