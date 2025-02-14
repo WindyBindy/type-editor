@@ -2,12 +2,13 @@
 
 > An editor for programming and editing text.
 
-
 My friend and I are building this editor for self improvement,
 If you have any issues please report the issue in Github thank you.
-Programmed with TAURI,HTML,SCSS,CSS,JS.
 
-# Website roadmap
+> Programmed with TAURI,HTML,SCSS,CSS,JS.
+
+## Website roadmap
+
 - [ ] Make the design
 - [ ] Make the bare-bones design HTML and CSS
 - [ ] Make it function
