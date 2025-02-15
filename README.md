@@ -14,3 +14,5 @@ If you have any issues please report the issue in Github thank you.
 - [ ] Make it function
 - [ ] Make keyboard shortcuts
 - [ ] Add options to add new notes and browse through notes
+
+#### Design: [Design](https://www.figma.com/design/eIhTt9nCqlohAXZ4Rz6QSw/Type-Editor?m=auto&fuid=1427268075028071477)
