@@ -9,8 +9,8 @@ If you have any issues please report the issue in Github thank you.
 
 ## Website roadmap
 
-- [ ] Make the design
-- [ ] Make the bare-bones design HTML and CSS
+- [x] Make the design
+- [x] Make the bare-bones design HTML and CSS
 - [ ] Make it function
 - [ ] Make keyboard shortcuts
 - [ ] Add options to add new notes and browse through notes
