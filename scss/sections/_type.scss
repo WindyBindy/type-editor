@@ -11,4 +11,16 @@ body {
 	caret-color: rgb(253, 253, 253);
 	font-size: 18px;
 	color: #ffffff;
+	border: 0.3px solid #ef9f76;
+}
+.input {
+	border: 0.3px solid #ef9f76;
+	background: transparent;
+	outline: #303446;
+	caret-color: rgb(253, 253, 253);
+	color: #ffffff;
+	width: 100%;
+}
+.input::placeholder {
+	color: #ffffff;
 }

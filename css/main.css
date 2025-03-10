@@ -1,7 +1,6 @@
 .header__box {
   display: flex;
 }
-
 .header__result {
   color: #fff;
   -webkit-text-stroke-width: 1px;
@@ -13,24 +12,20 @@
   line-height: normal;
   margin-right: auto;
 }
-
 .header__list {
   display: flex;
   gap: 20px;
 }
-
 .header__item {
   margin: 0;
   padding: 0;
 }
-
 .header__icon {
   fill: #ef9f76;
   width: 36px;
   height: 36px;
   margin: 0;
 }
-
 .header__btn {
   border: none;
   background-color: transparent;
@@ -42,7 +37,6 @@ body {
 }
 
 .textarea {
-  font-family: "JetBrains Mono";
   width: 100%;
   height: 97%;
   background: #303446;
@@ -53,6 +47,23 @@ body {
   font-size: 18px;
   color: #ffffff;
   border: 0.3px solid #ef9f76;
+}
+
+.input {
+  border: 0.3px solid #ef9f76;
+  background: transparent;
+  outline: #303446;
+  caret-color: rgb(253, 253, 253);
+  color: #ffffff;
+  width: 100%;
+}
+
+.input::-moz-placeholder {
+  color: #ffffff;
+}
+
+.input::placeholder {
+  color: #ffffff;
 }
 
 * {
@@ -85,4 +96,3 @@ h4,
 p {
   margin: 0;
 }
-
