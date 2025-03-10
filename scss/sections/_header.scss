@@ -1,3 +1,37 @@
-h1 {
-	color: aqua;
+.header {
+	&__box {
+		display: flex;
+	}
+	&__result {
+		color: #fff;
+
+		-webkit-text-stroke-width: 1px;
+		-webkit-text-stroke-color: #464646d2;
+		font-family: 'JetBrains Mono';
+		font-size: 25px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+		margin-right: auto;
+	}
+
+	&__list {
+		display: flex;
+		gap: 20px;
+	}
+	&__item {
+		margin: 0;
+		padding: 0;
+	}
+	&__icon {
+		fill: #ef9f76;
+		width: 36px;
+		height: 36px;
+		margin: 0;
+	}
+	&__btn {
+		border: none;
+		background-color: transparent;
+		padding: 0;
+	}
 }
