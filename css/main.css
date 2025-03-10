@@ -52,6 +52,7 @@ body {
   caret-color: rgb(253, 253, 253);
   font-size: 18px;
   color: #ffffff;
+  border: 0.3px solid #ef9f76;
 }
 
 * {
@@ -84,3 +85,4 @@ h4,
 p {
   margin: 0;
 }
+
