@@ -1,3 +1,5 @@
 const settingsOpenBtn = document.getElementById('settings-btn')
 
-settingsOpenBtn.onclick
+settingsOpenBtn.onclick = function () {
+	window.location.href = './pages/settings.html'
+}
