@@ -1,6 +1,7 @@
 .header__box {
   display: flex;
 }
+
 .header__result {
   color: #fff;
   -webkit-text-stroke-width: 1px;
@@ -12,20 +13,24 @@
   line-height: normal;
   margin-right: auto;
 }
+
 .header__list {
   display: flex;
   gap: 20px;
 }
+
 .header__item {
   margin: 0;
   padding: 0;
 }
+
 .header__icon {
   fill: #ef9f76;
   width: 36px;
   height: 36px;
   margin: 0;
 }
+
 .header__btn {
   border: none;
   background-color: transparent;
