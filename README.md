@@ -11,7 +11,7 @@ If you have any issues please report the issue in Github thank you.
 
 - [x] Make the design
 - [x] Make the bare-bones design HTML and CSS
-- [ ] Make it function
+- [x] Make it function
 - [ ] Make keyboard shortcuts
 - [ ] Add options to add new notes and browse through notes
 
