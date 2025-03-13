@@ -1,8 +1,8 @@
-const settingsOpenBtn = document.getElementById('settings-btn')
+// const settingsOpenBtn = document.getElementById('settings-btn')
 
-settingsOpenBtn.onclick = function () {
-	window.location.href = '../pages/settings.html'
-}
+// settingsOpenBtn.onclick = function () {
+// 	window.location.href = '../pages/settings.html'
+// }
 function saveFile() {
 	const text = document.getElementById('editor').value
 	const fileName = document.getElementById('fileName').value
